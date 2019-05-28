@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<colegio>
+	<alumno>
+		<nombre></nombre>
+		<apellidos></apellidos>
+		<DNI></DNI>
+		<direccion></direccion>
+		<localidad></localidad>
+		<expediente></expediente>
+		<fecha_nacimiento></fecha_nacimiento>
+	</alumno>
+	<asignatura>
+		<nombre></nombre>
+	</asignatura>
+</colegio>
